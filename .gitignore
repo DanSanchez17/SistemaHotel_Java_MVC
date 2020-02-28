@@ -1,0 +1,12 @@
+
+*.nbm
+#clases compiladas#
+*.class
+
+#package files#
+*.jar
+*.zip
+
+/src/imagenes
+*.jpg
+*.png

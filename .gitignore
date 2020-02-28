@@ -4,7 +4,8 @@
 *.class
 
 #package files#
-*.jar
+dist/Hotel_ds.jar
+/.jar
 *.zip
 
 /src/imagenes
